@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 alembic = "*"
-faker-food = "*"
 click = "*"
 faker = "*"
 flask = "*"
