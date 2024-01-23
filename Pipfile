@@ -24,8 +24,10 @@ setuptools = "*"
 six = "*"
 sqlalchemy = "*"
 sqlalchemy-serializer = "*"
+flask-jwt-extended = "*"
+datetime = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8.10"
+python_version = "3.11.4"
